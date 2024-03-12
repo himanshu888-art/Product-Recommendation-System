@@ -1,4 +1,6 @@
 # Product-Recommendation-System-Using-Machine-Learning
+![Screenshot 2024-03-06 235950](https://github.com/himanshu888-art/Product-Recommendation-System-Using-Machine-Learning/assets/88398796/d5142169-03ec-445f-ac0c-dcb34808a9be)
+![Screenshot 2024-03-07 000023](https://github.com/himanshu888-art/Product-Recommendation-System-Using-Machine-Learning/assets/88398796/b0f0e9b2-406d-47c7-b2bc-0153e61504f4)
 
 This project tackles the challenge of building a personalized PRS leveraging the power of machine learning.
 The system analyzes data about users and products to identify patterns and relationships, enabling it to predict which products each user is likely to find appealing.
@@ -28,8 +30,7 @@ The choice of models can be tailored based on various factors, including the nat
 
 **Deployment and Integration:**
 The chosen model is integrated with the target application environment e.g., web app to deliver personalized recommendations to users in real-time.
-![Screenshot 2024-03-06 235950](https://github.com/himanshu888-art/Product-Recommendation-System-Using-Machine-Learning/assets/88398796/d5142169-03ec-445f-ac0c-dcb34808a9be)
-![Screenshot 2024-03-07 000023](https://github.com/himanshu888-art/Product-Recommendation-System-Using-Machine-Learning/assets/88398796/b0f0e9b2-406d-47c7-b2bc-0153e61504f4)
+
 
 
 
